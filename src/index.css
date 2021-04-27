@@ -1,0 +1,16 @@
+body{
+    background-color: #000000;
+    font-family: Fira Code;
+    font-size: 22.4px;
+    color: white;
+    text-align: center;
+}
+
+h1, h2, h3 { /*Peso da fonte - Cada fonte tem seu peso - Incrivel isso */
+    font-weight: 300;
+}
+
+h2, h3 { /*Peso da fonte - Cada fonte tem seu peso - Incrivel isso */
+    margin: 0;
+    font-weight: 300;
+}
